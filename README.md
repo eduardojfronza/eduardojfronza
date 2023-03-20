@@ -10,7 +10,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Eduardo-pic" height="150" style="border-radius:50px;" src="eduardojfonza.github.com">
+  <img align="right" alt="Eduardo-pic" height="150" style="border-radius:50px;" src="eduardojfonza.github">
 </div>
   
 </div>
