@@ -4,6 +4,13 @@
 - Cursando desenvolvimento Web e Mobile
 - Estágiario em V4 Company
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardojfronza&show_icons=true&count_private=true&hide_border=true&title_color=e9c044&icon_color=e9c0444&text_color=e9c044&bg_color=0d1117" alt="eduardojfronza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojfronza&layout=compact&hide_border=true&title_color=e9c044&text_color=e9c044&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eduardojfronza&bg_color=0d1117&color=e9c044&line=dc1919&point=CE7E00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Contatos/Social
 <a href="" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
 
@@ -22,10 +29,3 @@
 ## IDEs/Terminal
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardojfronza&show_icons=true&count_private=true&hide_border=true&title_color=e9c044&icon_color=e9c0444&text_color=e9c044&bg_color=0d1117" alt="eduardojfronza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojfronza&layout=compact&hide_border=true&title_color=e9c044&text_color=e9c044&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eduardojfronza&bg_color=0d1117&color=e9c044&line=dc1919&point=CE7E00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
