@@ -19,13 +19,13 @@ Este perfil é um reflexo do meu trabalho e projetos, onde você poderá encontr
 ## Meus projetos
 
 - TecBLog: https://github.com/eduardojfronza/TecBlog;
-- Exercicios Javascript: https://github.com/eduardojfronza/javascript.
+- Exercícios Javascript: https://github.com/eduardojfronza/javascript.
 
 ## Como me encontrar
 
 - Linkedin https://www.linkedin.com/in/eduardo-fronza-49a435233/?originalSubdomain=br;
 - Email edujfronza@gmail.com;
-- Curriculo Online {}
+- Curriculo Online: {criando...}
 
 Obrigado por visitar o meu perfil do GitHub! Estou ansioso para colaborar e aprender com você. 😊
 <div style="display: inline_block"><br>
@@ -36,10 +36,3 @@ Obrigado por visitar o meu perfil do GitHub! Estou ansioso para colaborar e apre
   <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-</div>
