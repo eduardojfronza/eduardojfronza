@@ -13,7 +13,7 @@
 - Estágiario em V4 Company
 
 ## Contatos/Social
-<a href="" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
+<a href="https://br.linkedin.com/in/eduardo-fronza-49a435233" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
 
 ## Habilidades (Desenvolvendo)
 
