@@ -1,4 +1,4 @@
-# Olá, meu nome é [Eduardo Fronza] 👋
+# Olá, meu nome é Eduardo Fronza 👋
 
 Sou estágiario e apaixonado por Tecnologia e Programação. Estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
