@@ -1,5 +1,13 @@
 # Olá, meu nome é Eduardo Fronza 👋
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eduardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
 Sou estágiario e apaixonado por Tecnologia e Programação. Estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
 Este perfil é um reflexo do meu trabalho e projetos, onde você poderá encontrar repositórios de códigos, projetos pessoais e colaborações em projetos de outras pessoas. Sinta-se à vontade para explorar e contribuir!
@@ -28,11 +36,5 @@ Este perfil é um reflexo do meu trabalho e projetos, onde você poderá encontr
 - Curriculo Online: {criando...}
 
 Obrigado por visitar o meu perfil do GitHub! Estou ansioso para colaborar e aprender com você. 😊
-<div style="display: inline_block"><br>
-  <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eduardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
 
