@@ -6,9 +6,9 @@
 </div>
 
 ## Sobre
-- Estudante no 3º Ano do Ensino médio (SenacRS)
-- Cursando desenvolvimento Web e Mobile
-- Estágiario em V4 Company
+- Estudante de Engenharia de Software (FIAP)
+- Formado no Ensino Médio Senac Técnico Para Internet
+- Desenvolvedor web na em V4 Company
 
 ## Contatos/Social
 <a href="https://br.linkedin.com/in/eduardo-fronza-49a435233" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
