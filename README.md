@@ -6,9 +6,9 @@
 </div>
 
 ## Sobre
-- Estudante de Engenharia de Software (FIAP)
-- Formado no Ensino Médio Senac Técnico Para Internet
-- Desenvolvedor Front-End na V4 Company
+- Student at Software Engineer (FIAP)
+- Graduated from Senac Technical High School for the Internet
+- Full Stack Developer at V4 Company
 
 ## Contatos/Social
 <a href="https://br.linkedin.com/in/eduardo-fronza-49a435233" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
